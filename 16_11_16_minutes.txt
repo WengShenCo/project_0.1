@@ -5,8 +5,9 @@ Location: Tom N Toms Coffee
 Time: 15:00 - 
 
 Website referenced
-    - www.deftlyphotography.com/
+    - https://www.deftlyphotography.com/
     - https://codymoose.github.io/
+    - https://apps.chrisjoy.me/unibite/frame.html
 
 General WengShenCO (to be finalised) Project Website
     Plan of Action
